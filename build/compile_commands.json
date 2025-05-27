@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/untitled1.dir/prog2.cpp.o -c \"/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/prog2.cpp\"",
+  "file": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/prog2.cpp",
+  "output": "CMakeFiles/untitled1.dir/prog2.cpp.o"
+},
+{
+  "directory": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/untitled1.dir/Account.cpp.o -c \"/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/Account.cpp\"",
+  "file": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/Account.cpp",
+  "output": "CMakeFiles/untitled1.dir/Account.cpp.o"
+},
+{
+  "directory": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/untitled1.dir/ATM.cpp.o -c \"/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/ATM.cpp\"",
+  "file": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/ATM.cpp",
+  "output": "CMakeFiles/untitled1.dir/ATM.cpp.o"
+},
+{
+  "directory": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/untitled1.dir/Bank.cpp.o -c \"/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/Bank.cpp\"",
+  "file": "/Users/smar7n/Desktop/UnderGrad/Spring -2025/CSC 402- Advance Programming/Program2/Bank.cpp",
+  "output": "CMakeFiles/untitled1.dir/Bank.cpp.o"
+}
+]
